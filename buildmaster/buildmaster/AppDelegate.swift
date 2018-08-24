@@ -6,6 +6,7 @@
 //  Copyright © 2018 Christian. All rights reserved.
 //
 
+// launch demo build
 import AppCenter
 import AppCenterAnalytics
 import AppCenterCrashes
