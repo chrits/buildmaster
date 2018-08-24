@@ -1,0 +1,6 @@
+framework module Pods_buildmaster {
+  umbrella header "Pods-buildmaster-umbrella.h"
+
+  export *
+  module * { export * }
+}
